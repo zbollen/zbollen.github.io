@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research aims to better understand the cognitive and attentional mechanisms underlying human decision-making. Combining approaches from cognitive neuroscience, environmental psychology, and experimental psychology, my research aims to understand how people process information, allocate attention, and make decisions in contexts that are both theoretically and societally relevant.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work has evolved from investigating attentional processes in addiction to iunderstanding how people make pro-environmental decisions. More recently, I have expanded this research to examine how characteristics of the physical environment influence attention restoration and well-being. I am also interested in the interplay between prosocial and environmental motives, and the cognitive mechanisms through which they support (or sometimes compete in) everyday decisions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Through this research, I aim to bridge fundamental cognitive research with real-world societal challenges, contributing to a better understanding of the mechanisms that promote healthier, more cooperative, and more sustainable behavior.
