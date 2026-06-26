@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher
+subtitle: Postdoctoral researcher <br> Institute of Psychological Sciences - UCLouvain (Belgium)
 
 profile:
   align: right
