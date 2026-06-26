@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoctoral researcher
 
 profile:
-  align: left
+  align: right
   image: ID-photo.jpeg
   image_circular: true # crops the image to make it circular
   more_info: 
