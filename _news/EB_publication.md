@@ -17,5 +17,3 @@ related_posts: false
 
 🌱 Together, these results suggest that vegetarians may rely on a more value-driven decision-making style that goes beyond cost–benefit trade-offs and places greater weight on environmental considerations. In this sense, vegetarianism may serve as a behavioral proxy for environmental commitment.
 
-<img width="756" height="280" alt="image" src="https://github.com/user-attachments/assets/e5045ba5-1923-4e92-95f6-855535825410" />
-
