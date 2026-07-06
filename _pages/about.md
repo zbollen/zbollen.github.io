@@ -29,4 +29,4 @@ My research aims to better understand the <b>cognitive and attentional mechanism
 My work has evolved from investigating attentional processes in addiction to iunderstanding how people make pro-environmental decisions. More recently, I have expanded this research to examine how characteristics of the physical environment influence attention restoration and well-being. 
 
 Through this research, I aim to <b>bridge fundamental cognitive research with real-world societal challenges</b>, contributing to a better understanding of the mechanisms that promote healthier, more cooperative, and more sustainable behavior.
-<br>
+<br><br>
