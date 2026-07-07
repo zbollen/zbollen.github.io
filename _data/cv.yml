@@ -97,7 +97,7 @@ cv:
           - "Student evaluation: 5.71/6"
 
     Grants & Awards:
-      - title: FNRS Postdoctoral Fellowship
+      - name: FNRS Postdoctoral Fellowship
         date: 2026-2029
         awarder: F.R.S - FNRS
       
