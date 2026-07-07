@@ -47,7 +47,7 @@ cv:
         highlights:
           - "Graduated with *Grande Distinction*"
 
-    Experience:
+    Professional Experience:
       - company: UCLouvain, Belgium
         position: Postdoctoral Researcher
         start_date: 2025-10
@@ -87,7 +87,7 @@ cv:
         end_date: 2022-07
         summary: Scientific stay at the Laboratoire de Psychologie et NeuroCognition (LPNC).
 
-    Teaching:
+    Teaching Experience:
       - company: University of Bern, Switzerland
         position: Lecturer
         start_date: 2024-09
@@ -98,7 +98,7 @@ cv:
           - "Student evaluation: 5.71/6"
 
     Grants & Awards:
-      - name: FNRS Postdoctoral Fellowship
+      - title: FNRS Postdoctoral Fellowship
         date: 2026-2029
         awarder: F.R.S - FNRS
       
@@ -127,13 +127,8 @@ cv:
         awarder: F.R.S. - FNRS
 
     Student Supervision:
-      - company: UCLouvain
-        position: Master's Thesis Supervision
-        summary: Supervision of eight Master's students between 2018 and 2027.
-
-      - company: University of Bern
-        position: Master's Thesis Supervision
-        summary: Supervision of three Master's students during 2024–2025.
+      - bullet: Supervision of eight Master's students at UCLouvain (2018–2027).
+      - bullet: Supervision of three Master's students at the University of Bern (2024–2025).
 
     Professional Activities:
       - company: Scientific Reviewing
