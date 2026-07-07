@@ -6,7 +6,7 @@ cv:
 
   sections:
     Education:
-      institution: UCLouvain, Belgium
+        institution: UCLouvain, Belgium
         area: Psychological Sciences
         studyType: PhD
         start_date: 2018
@@ -16,7 +16,7 @@ cv:
           - "Funded by the Belgian National Fund for Scientific Research (FRS-FNRS)."
           - "Grade: 94%."
 
-      - institution: UCLouvain, Belgium
+        institution: UCLouvain, Belgium
         area: Psychological Sciences
         studyType: University Certificate
         start_date: 2017
@@ -24,7 +24,7 @@ cv:
         highlights:
           - "Graduated with Grande Distinction."
 
-      - institution: UCLouvain, Belgium
+        institution: UCLouvain, Belgium
         area: Neuropsychology
         studyType: Master of Psychological Sciences
         start_date: 2015
@@ -33,12 +33,12 @@ cv:
           - "Master thesis on binge drinking, inhibitory control and tDCS."
           - "Graduated with Grande Distinction."
 
-      - institution: Universidad del País Vasco, Spain
+        institution: Universidad del País Vasco, Spain
         studyType: Erasmus Exchange
         start_date: 2016
         end_date: 2017
 
-      - institution: UCLouvain, Belgium
+        institution: UCLouvain, Belgium
         area: Psychology and Educational Sciences
         studyType: Bachelor
         start_date: 2012
