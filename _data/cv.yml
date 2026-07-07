@@ -4,9 +4,24 @@ cv:
   email: zoe.bollen@uclouvain.be
   location: UCLouvain, Louvain-la-Neuve, Belgium
   image: ""
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
+
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
   sections:
-
     Education:
       - institution: UCLouvain, Belgium
         area: Psychological Sciences
@@ -48,7 +63,7 @@ cv:
         highlights:
           - "Graduated with Grande Distinction."
 
-    Academic Positions:
+    Experience:
       - company: UCLouvain, Belgium
         position: Postdoctoral Researcher
         start_date: 2025-10
@@ -82,7 +97,6 @@ cv:
         highlights:
           - "FRS-FNRS funded PhD."
 
-    Visiting Research:
       - company: Université Grenoble Alpes, France
         position: Visiting Researcher
         start_date: 2022-06
@@ -100,10 +114,13 @@ cv:
           - "Student evaluation: 5.71/6"
 
     Grants & Awards:
+      - title: FNRS Postdoctoral Fellowship
+        date: 2026-2029
+        awarder: F.R.S - FNRS
+      
       - title: FSR Incoming Postdoctoral Fellowship
-        date: 2026
+        date: 2026-2029
         awarder: UCLouvain
-        summary: Three-year postdoctoral fellowship.
 
       - title: Best Paper Award
         date: 2025
@@ -113,16 +130,17 @@ cv:
         date: 2025
         awarder: University of Bern
 
-      - title: Belgium's Got Talent Prize
+      - title: Belgium's Got Talent Prize for Best PhD Thesis
         date: 2024
         awarder: Belgian College of Neuropsychopharmacology and Biological Psychiatry
-        summary: Best PhD Thesis.
 
-      - title: REUNIRA Young Researchers' Prize
+      - title: Young Researchers' Prize for Best Oral Presentation at GREPACO 2021
         date: 2021
+        awarder: REUNIRA
 
-      - title: FRS-FNRS Doctoral Fellowship
+      - title: FNRS Doctoral Fellowship
         date: 2019-2023
+        awarder: F.R.S. - FNRS
 
     Student Supervision:
       - company: UCLouvain
