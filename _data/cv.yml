@@ -1,189 +1,175 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Zoé Bollen
+  label: Postdoctoral Researcher
+  email: zoe.bollen@uclouvain.be
+  location: UCLouvain, Louvain-la-Neuve, Belgium
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
 
   sections:
+
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: UCLouvain, Belgium
+        area: Psychological Sciences
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2018
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Testing the nature of the alcohol-related attentional bias in binge drinking and severe alcohol use disorder: an eye-tracking approach."
+          - "Funded by the Belgian National Fund for Scientific Research (FRS-FNRS)."
+          - "Grade: 94%."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: UCLouvain, Belgium
+        area: Psychological Sciences
+        studyType: University Certificate
+        start_date: 2017
+        end_date: 2018
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Graduated with Grande Distinction."
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: UCLouvain, Belgium
+        area: Neuropsychology
+        studyType: Master of Psychological Sciences
+        start_date: 2015
+        end_date: 2017
         highlights:
-          - Relativity
-          - Description 2.
+          - "Master thesis on binge drinking, inhibitory control and tDCS."
+          - "Graduated with Grande Distinction."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - institution: Universidad del País Vasco, Spain
+        studyType: Erasmus Exchange
+        start_date: 2016
+        end_date: 2017
+
+      - institution: UCLouvain, Belgium
+        area: Psychology and Educational Sciences
+        studyType: Bachelor
+        start_date: 2012
+        end_date: 2015
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Graduated with Grande Distinction."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    Academic Positions:
+      - company: UCLouvain, Belgium
+        position: Postdoctoral Researcher
+        start_date: 2025-10
+        end_date: 2026-09
+        summary: Stress and Anxiety Research Lab
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Supervisor: Prof. Alexandre Heeren"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: University of Bern, Switzerland
+        position: Postdoctoral Researcher
+        start_date: 2023-10
+        end_date: 2025-09
+        summary: Department of Social Neuroscience and Social Psychology
+        highlights:
+          - "80% position"
+          - "Supervisor: Prof. Daria Knoch"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: University of Basel, Switzerland
+        position: Postdoctoral Researcher
+        start_date: 2023-10
+        end_date: 2025-09
+        summary: Centre for Psychology of Sustainability and Behaviour Change
+        highlights:
+          - "20% position"
+          - "Supervisor: Prof. Ulf Hahnel"
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - company: UCLouvain, Belgium
+        position: PhD Researcher
+        start_date: 2018-10
+        end_date: 2023-09
+        highlights:
+          - "FRS-FNRS funded PhD."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Visiting Research:
+      - company: Université Grenoble Alpes, France
+        position: Visiting Researcher
+        start_date: 2022-06
+        end_date: 2022-07
+        summary: Scientific stay at the Laboratoire de Psychologie et NeuroCognition (LPNC).
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Teaching:
+      - company: University of Bern, Switzerland
+        position: Lecturer
+        start_date: 2024-09
+        end_date: 2024-12
+        summary: "Method seminar: Eye-tracking Methods for Psychological Research"
+        highlights:
+          - "25 teaching hours"
+          - "Student evaluation: 5.71/6"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Grants & Awards:
+      - title: FSR Incoming Postdoctoral Fellowship
+        date: 2026
+        awarder: UCLouvain
+        summary: Three-year postdoctoral fellowship.
+
+      - title: Best Paper Award
+        date: 2025
+        awarder: NeuroPsychoEconomics Conference
+
+      - title: Excellence in Teaching Award
+        date: 2025
+        awarder: University of Bern
+
+      - title: Belgium's Got Talent Prize
+        date: 2024
+        awarder: Belgian College of Neuropsychopharmacology and Biological Psychiatry
+        summary: Best PhD Thesis.
+
+      - title: REUNIRA Young Researchers' Prize
+        date: 2021
+
+      - title: FRS-FNRS Doctoral Fellowship
+        date: 2019-2023
+
+    Student Supervision:
+      - company: UCLouvain
+        position: Master's Thesis Supervision
+        summary: Supervision of eight Master's students between 2018 and 2027.
+
+      - company: University of Bern
+        position: Master's Thesis Supervision
+        summary: Supervision of three Master's students during 2024–2025.
+
+    Professional Activities:
+      - company: Scientific Reviewing
+        position: Reviewer
+        highlights:
+          - Journal of Environmental Psychology
+          - Addictive Behaviors
+          - Journal of Anxiety Disorders
+          - Alcohol and Alcoholism
+          - Drug and Alcohol Dependence Reports
+          - Cognitive Processing
+
+      - company: Conference Organization
+        position: Organizing Committee Member
+        summary: GREPACO 2023 Conference.
+
+    Technical Skills:
+      - name: Programming
+        keywords: R, SPSS, Matlab
+
+      - name: Experimental Software
+        keywords: OpenSesame, Qualtrics, LimeSurvey, MouselabWEB
+
+      - name: Eye-tracking
+        keywords: EyeLink, Tobii Pro Lab, Tobii Glasses
+
+      - name: Experimental Methods
+        keywords: Eye-tracking, Mouse-tracking, EEG, tDCS
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: French
+        summary: Native
 
       - name: English
-        summary: "Fluent"
+        summary: C1
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Spanish
+        summary: A2
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: German
+        summary: A1
