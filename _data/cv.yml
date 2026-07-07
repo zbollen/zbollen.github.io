@@ -4,14 +4,6 @@ cv:
   email: zoe.bollen@uclouvain.be
   location: UCLouvain, Louvain-la-Neuve (Belgium)
   image: ""
-  
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
 
   sections:
     Education:
