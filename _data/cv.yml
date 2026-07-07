@@ -12,9 +12,9 @@ cv:
         start_date: 2018
         end_date: 2023
         highlights:
-          - "Thesis: Testing the nature of the alcohol-related attentional bias in binge drinking and severe alcohol use disorder: an eye-tracking approach."
+          - "Thesis: *Testing the nature of the alcohol-related attentional bias in binge drinking and severe alcohol use disorder: an eye-tracking approach.*"
           - "Funded by the Belgian National Fund for Scientific Research (FRS-FNRS)."
-          - "Grade: 94%."
+          - "Grade: 94%"
 
       - institution: UCLouvain, Belgium
         area: Psychological Sciences
@@ -22,7 +22,7 @@ cv:
         start_date: 2017
         end_date: 2018
         highlights:
-          - "Graduated with Grande Distinction."
+          - "Graduated with *Grande Distinction*"
 
       - institution: UCLouvain, Belgium
         area: Neuropsychology
@@ -31,7 +31,7 @@ cv:
         end_date: 2017
         highlights:
           - "Master thesis on binge drinking, inhibitory control and tDCS."
-          - "Graduated with Grande Distinction."
+          - "Graduated with *Grande Distinction*"
 
       - institution: Universidad del País Vasco, Spain
         studyType: Erasmus Exchange
@@ -44,7 +44,7 @@ cv:
         start_date: 2012
         end_date: 2015
         highlights:
-          - "Graduated with Grande Distinction."
+          - "Graduated with *Grande Distinction*"
 
     Experience:
       - company: UCLouvain, Belgium
