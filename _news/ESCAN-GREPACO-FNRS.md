@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NPE award
+title: Grepaco, Escan and FNRS grant
 date: 2026-06-25 07:59:00-0400
 inline: true
 related_posts: false
