@@ -10,14 +10,14 @@ Last week at the NeuroPsychoEconomics Conference in Dublin, I was honored to rec
 <br><br>
 This work is the result of a great collaboration with my highly skilled colleagues Annika Wyss, Emmanuel Guizar Rosales, Zarah Le Houcq Corbi, and Daria Knoch. As my first project in the field of environmental psychology, receiving this recognition is incredibly motivating. The conference was a really nice experience, full of interesting talks and truly friendly people. Many thanks!
 
-<br>
+<br><br>
 
 <img src="/assets/img/news/NPE_award1.jpg"
-         width="120"
-         style="float:right; margin-left:15px; border-radius:6px;">
+         width="6000"
+         style="float:left; margin-left:15px; border-radius:6px;">
 
 <img src="/assets/img/news/NPE_award2.jpg"
-         width="120"
+         width="600"
          style="float:right; margin-left:15px; border-radius:6px;">
 
 <br><br>
