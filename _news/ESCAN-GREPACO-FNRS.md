@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NPE award
-date: 2025-06-25 07:59:00-0400
+date: 2026-06-25 07:59:00-0400
 inline: true
 related_posts: false
 ---
@@ -25,10 +25,10 @@ Beyond the talks themselves, what stood out was everything around them: sharing 
 <br><br>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 1rem;">
   <figure style="text-align: center; margin: 0;">
-    <img src="/assets/img/news/Escan1.jpg" width="320px" style="border-radius: 6px;" />
+    <img src="/assets/img/news/Escan1.jpg" width="280px" style="border-radius: 6px;" />
   </figure>
   <figure style="text-align: center; margin: 0;">
-    <img src="/assets/img/news/Escan2.jpg" width="280px" style="border-radius: 6px;" />
+    <img src="/assets/img/news/Escan2.jpg" width="320px" style="border-radius: 6px;" />
   </figure>
 </div>
 <br><br>
