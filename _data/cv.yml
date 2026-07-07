@@ -7,7 +7,7 @@ cv:
   sections:
     Education:
       - institution: UCLouvain
-        location: Louvain-la-Neuve, Belgium
+        location: Louvain-la-Neuve, <br>Belgium
         area: Psychological Sciences
         studyType: PhD
         start_date: 2018
