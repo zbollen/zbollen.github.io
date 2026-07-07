@@ -19,3 +19,4 @@ This work is the result of a great collaboration with my highly skilled colleagu
     <img src="/assets/img/news/NPE_award2.jpg" width="280px" style="border-radius: 6px;" />
   </figure>
 </div>
+<br><br>
