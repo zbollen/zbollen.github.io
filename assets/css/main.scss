@@ -1,0 +1,72 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "distill";
+@use "cv";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+@use "font-awesome/fontawesome";
+@use "font-awesome/brands";
+@use "font-awesome/solid";
+@use "font-awesome/regular";
+
+/* --- Custom styles --- */
+.post p {
+  text-align: justify;
+  line-height: 1.7;
+}
+
+.profile .more-info {
+  font-size: 0.9rem !important;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+  word-break: break-word;
+}
+
+.profile .more-info p {
+  margin-bottom: 0;
+}
+
+.profile.float-right {
+  float: right;
+  margin-left: 3rem;
+  margin-bottom: 1rem;
+  max-width: 280px;
+}
+
+.profile img {
+  width: 100%;
+  height: auto;
+}
+
+.post .clearfix {
+  overflow: visible;
+}
