@@ -8,13 +8,16 @@ related_posts: false
 
 This month I had the great opportunity to present three talks across two high-quality conferences, sharing a good deal of my recent research.
 <br><br>
-🇨🇭 GREPACO, Geneva 
+🇨🇭 <b>GREPACO, Geneva</b> 
+<br>
 I presented our new results from our eye-tracking study examining the restorative effects of immersive nature on attention, affect and cognition, and how those effects are altered when natural environments are degraded by the presence of litter.
 <br><br>
-🇮🇹 European Society for Cognitive and Affective Neuroscience (ESCAN) Pre-conference, Rome
+🇮🇹 <b>ESCAN Pre-conference, Rome</b> 
+<br>
 I was kindly invited by Prof. Claus Lamm to present alongside Dr. leslie tricoche at a pre-conference focused on socially impactful neuroscience. My talk looked at the challenges of doing environmental neuroscience that is both ecologically valid and responsible, followed by a rich panel discussion with all the speakers.
 <br><br>
-🇮🇹 European Society for Cognitive and Affective Neuroscience (ESCAN), Rome
+🇮🇹 <b>ESCAN, Rome</b> 
+<br>
 I also had the pleasure of organizing a symposium on the cognitive processes behind pro-environmental behaviour, alongside Prof. Damien Brevers, Alessandro Valvo, and Lukas Mayrhofer. I presented results from our recent MouselabWEB study on pro-environmental decision-making in a population that makes daily pro-environmental decisions as part of their lifestyle: vegetarians.
 <br><br>
 Beyond the talks themselves, what stood out was everything around them: sharing results and open questions, meeting researchers from all over, catching up with former colleagues. Two conferences well worth the trip!
