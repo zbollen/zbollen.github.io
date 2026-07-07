@@ -54,7 +54,7 @@ cv:
           - "Graduated with Grande Distinction."
 
     Academic Positions:
-      - company: UCLouvain
+      - institution: UCLouvain
         position: Postdoctoral Researcher
         location: Louvain-la-Neuve, Belgium
         start_date: 2025-10
@@ -63,7 +63,7 @@ cv:
         highlights:
           - "Supervisor: Prof. Alexandre Heeren"
 
-      - company: University of Bern
+      - institution: University of Bern
         position: Postdoctoral Researcher
         location: Bern, Switzerland
         start_date: 2023-10
@@ -73,7 +73,7 @@ cv:
           - "80% position"
           - "Supervisor: Prof. Daria Knoch"
 
-      - company: University of Basel
+      - institution: University of Basel
         position: Postdoctoral Researcher
         location: Basel, Switzerland
         start_date: 2023-10
@@ -83,7 +83,7 @@ cv:
           - "20% position"
           - "Supervisor: Prof. Ulf Hahnel"
 
-      - company: UCLouvain
+      - institution: UCLouvain
         position: PhD Researcher
         location: Louvain-la-Neuve, Belgium
         start_date: 2018-10
@@ -92,7 +92,7 @@ cv:
           - "FRS-FNRS funded PhD."
 
     Visiting Research:
-      - company: Université Grenoble Alpes
+      - institution: Université Grenoble Alpes
         position: Visiting Researcher
         location: Grenoble, France
         start_date: 2022-06
@@ -100,7 +100,7 @@ cv:
         summary: Scientific stay at the Laboratoire de Psychologie et NeuroCognition (LPNC).
 
     Teaching:
-      - company: University of Bern
+      - institution: University of Bern
         position: Lecturer
         location: Bern, Switzerland
         start_date: 2024-09
@@ -136,11 +136,11 @@ cv:
         date: 2019-2023
 
     Student Supervision:
-      - company: UCLouvain
+      - institution: UCLouvain
         position: Master's Thesis Supervision
         summary: Supervision of eight Master's students between 2018 and 2027.
 
-      - company: University of Bern
+      - institution: University of Bern
         position: Master's Thesis Supervision
         summary: Supervision of three Master's students during 2024–2025.
 
