@@ -23,3 +23,12 @@ Beyond the talks themselves, what stood out was everything around them: sharing 
 <br><br>
 🥇 On top of all this, I was so grateful to learn that I've been awarded the national F.R.S. - FNRS postdoctoral fellowship, allowing me to continue my research in environmental psychology for the next three years at UCLouvain with Prof. Damien Brevers. What a month! 🎉🎉
 <br><br>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 1rem;">
+  <figure style="text-align: center; margin: 0;">
+    <img src="/assets/img/news/Escan1.jpg" width="320px" style="border-radius: 6px;" />
+  </figure>
+  <figure style="text-align: center; margin: 0;">
+    <img src="/assets/img/news/Escan2.jpg" width="280px" style="border-radius: 6px;" />
+  </figure>
+</div>
+<br><br>
