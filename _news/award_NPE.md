@@ -13,7 +13,7 @@ This work is the result of a great collaboration with my highly skilled colleagu
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 1rem;">
   <figure style="text-align: center; margin: 0;">
-    <img src="/assets/img/news/NPE_award1.jpg" width="280px" style="border-radius: 6px;" />
+    <img src="/assets/img/news/NPE_award1.jpg" width="320px" style="border-radius: 6px;" />
   </figure>
   <figure style="text-align: center; margin: 0;">
     <img src="/assets/img/news/NPE_award2.jpg" width="280px" style="border-radius: 6px;" />
