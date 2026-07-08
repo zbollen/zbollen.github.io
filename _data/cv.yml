@@ -17,7 +17,8 @@ cv:
           - "Funded by the Belgian National Fund for Scientific Research (FRS-FNRS)."
           - "Grade: 94%"
 
-      - institution: UCLouvain, Belgium
+      - institution: UCLouvain
+        location: Louvain-la-Neuve, <br>Belgium
         area: Psychological Sciences
         studyType: University Certificate
         start_date: 2017
@@ -25,7 +26,8 @@ cv:
         highlights:
           - "Graduated with *Grande Distinction*"
 
-      - institution: UCLouvain, Belgium
+      - institution: UCLouvain
+        location: Louvain-la-Neuve, <br>Belgium
         area: Neuropsychology
         studyType: Master of Psychological Sciences
         start_date: 2015
@@ -34,12 +36,14 @@ cv:
           - "Master thesis on binge drinking, inhibitory control and tDCS."
           - "Graduated with *Grande Distinction*"
 
-      - institution: Universidad del País Vasco, Spain
+      - institution: Universidad del País Vasco
+        location: San Sebastian, <br>Spain
         studyType: Erasmus Exchange
         start_date: 2016
         end_date: 2017
 
-      - institution: UCLouvain, Belgium
+      - institution: UCLouvain
+        location: Louvain-la-Neuve, <br>Belgium
         area: Psychology and Educational Sciences
         studyType: Bachelor
         start_date: 2012
@@ -47,8 +51,9 @@ cv:
         highlights:
           - "Graduated with *Grande Distinction*"
 
-    Professional Experience:
-      - company: UCLouvain, Belgium
+    Experience:
+      - company: UCLouvain
+        location: Louvain-la-Neuve, <br>Belgium
         position: Postdoctoral Researcher
         start_date: 2025-10
         end_date: 2026-09
@@ -56,7 +61,8 @@ cv:
         highlights:
           - "Supervisor: Prof. Alexandre Heeren"
 
-      - company: University of Bern, Switzerland
+      - company: University of Bern
+        location: Bern, Switzerland
         position: Postdoctoral Researcher
         start_date: 2023-10
         end_date: 2025-09
@@ -65,7 +71,8 @@ cv:
           - "80% position"
           - "Supervisor: Prof. Daria Knoch"
 
-      - company: University of Basel, Switzerland
+      - company: University of Basel
+        location: Basel, Switzerland
         position: Postdoctoral Researcher
         start_date: 2023-10
         end_date: 2025-09
@@ -74,21 +81,23 @@ cv:
           - "20% position"
           - "Supervisor: Prof. Ulf Hahnel"
 
-      - company: UCLouvain, Belgium
+      - company: UCLouvain
+        location: Louvain-la-Neuve, <br>Belgium
         position: PhD Researcher
         start_date: 2018-10
         end_date: 2023-09
         highlights:
           - "FRS-FNRS funded PhD."
 
-      - company: Université Grenoble Alpes, France
+      - company: Université Grenoble Alpes
+        location: Grenoble, France
         position: Visiting Researcher
         start_date: 2022-06
         end_date: 2022-07
         summary: Scientific stay at the Laboratoire de Psychologie et NeuroCognition (LPNC).
 
-    Teaching Experience:
-      - company: University of Bern, Switzerland
+      - company: University of Bern
+        location: Bern, Switzerland
         position: Lecturer
         start_date: 2024-09
         end_date: 2024-12
@@ -97,7 +106,7 @@ cv:
           - "25 teaching hours"
           - "Student evaluation: 5.71/6"
 
-    Grants & Awards:
+    Awards:
       - title: FNRS Postdoctoral Fellowship
         date: 2026-2029
         awarder: F.R.S - FNRS
@@ -130,10 +139,9 @@ cv:
       - bullet: Supervision of eight Master's students at UCLouvain (2018–2027).
       - bullet: Supervision of three Master's students at the University of Bern (2024–2025).
 
-    Professional Activities:
-      - company: Scientific Reviewing
-        position: Reviewer
-        highlights:
+    Other Scientific Activities:
+      - label: Scientific Reviewing
+        summary:
           - Journal of Environmental Psychology
           - Addictive Behaviors
           - Journal of Anxiety Disorders
@@ -141,22 +149,21 @@ cv:
           - Drug and Alcohol Dependence Reports
           - Cognitive Processing
 
-      - company: Conference Organization
-        position: Organizing Committee Member
-        summary: GREPACO 2023 Conference.
+      - label: Conference Organization
+        summary: Organizing Committee Member for the GREPACO 2023 Conference.
 
-    Technical Skills:
-      - name: Programming
-        keywords: R, SPSS, Matlab
+    Skills:
+      - label: Programming
+        details: R, SPSS, Matlab
 
-      - name: Experimental Software
-        keywords: OpenSesame, Qualtrics, LimeSurvey, MouselabWEB
+      - label: Experimental Software
+        details: OpenSesame, Qualtrics, LimeSurvey, MouselabWEB
 
-      - name: Eye-tracking
-        keywords: EyeLink, Tobii Pro Lab, Tobii Glasses
+      - label: Eye-tracking
+        details: EyeLink, Tobii Pro Lab, Tobii Glasses
 
-      - name: Experimental Methods
-        keywords: Eye-tracking, Mouse-tracking, EEG, tDCS
+      - label: Experimental Methods
+        details: Eye-tracking, Mouse-tracking, EEG, tDCS
 
     Languages:
       - name: French
