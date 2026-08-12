@@ -49,14 +49,14 @@ cv:
           - "Graduated with *Grande Distinction*"
 
     Experience:
-      - company: Stress and Anxiety Research Lab, UCLouvain
+      - company: Stress and Anxiety Research Lab <br> UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
         position: Postdoctoral Researcher
         start_date: 2025-10
         end_date: 2026-09
         highlights: "Supervisor: Prof. Alexandre Heeren"
 
-      - company: Department of Social Neuroscience and Social Psychology, University of Bern
+      - company: Department of Social Neuroscience and Social Psychology <br> University of Bern
         location: Bern, Switzerland
         position: Postdoctoral Researcher
         start_date: 2023-10
@@ -65,7 +65,7 @@ cv:
           - "80% position"
           - "Supervisor: Prof. Daria Knoch"
 
-      - company: Center for Psychology of Sustainability and Behaviour Change, University of Basel
+      - company: Center for Psychology of Sustainability and Behaviour Change <br> University of Basel
         location: Basel, Switzerland
         position: Postdoctoral Researcher
         start_date: 2023-10
@@ -83,13 +83,13 @@ cv:
           - "25 teaching hours"
           - "Student evaluation: 5.71/6"
 
-      - company: UCLouvain
+      - company: Laboratory for Experimental Psychopathology (LEP) <br> UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
         position: FRS-FNRS PhD Student
         start_date: 2018-10
         end_date: 2023-09
 
-      - company: Laboratoire de Psychologie et NeuroCognition (LPNC), Université Grenoble Alpes
+      - company: Laboratoire de Psychologie et NeuroCognition (LPNC) <br> Université Grenoble Alpes
         location: Grenoble, France
         position: Visiting Researcher
         start_date: 2022-06
