@@ -79,7 +79,7 @@ cv:
         position: Lecturer
         date: 2024
         highlights:
-          - "Method seminar: Eye-tracking Methods for Psychological Research"
+          - "Method seminar: *Eye-tracking Methods for Psychological Research*"
           - "25 teaching hours"
           - "Student evaluation: 5.71/6"
 
