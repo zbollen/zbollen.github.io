@@ -52,15 +52,15 @@ cv:
       - company: Stress and Anxiety Research Lab <br> UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
         position: Postdoctoral Researcher
-        start_date: 2025-10
-        end_date: 2026-09
+        start_date: 2025
+        end_date: 2026
         highlights: "Supervisor: Prof. Alexandre Heeren"
 
       - company: Department of Social Neuroscience and Social Psychology <br> University of Bern
         location: Bern, Switzerland
         position: Postdoctoral Researcher
-        start_date: 2023-10
-        end_date: 2025-09
+        start_date: 2023
+        end_date: 2025
         highlights:
           - "80% position"
           - "Supervisor: Prof. Daria Knoch"
@@ -68,8 +68,8 @@ cv:
       - company: Center for Psychology of Sustainability and Behaviour Change <br> University of Basel
         location: Basel, Switzerland
         position: Postdoctoral Researcher
-        start_date: 2023-10
-        end_date: 2025-09
+        start_date: 2023
+        end_date: 2025
         highlights:
           - "20% position"
           - "Supervisor: Prof. Ulf Hahnel"
@@ -77,7 +77,7 @@ cv:
       - company: University of Bern
         location: Bern, Switzerland
         position: Lecturer
-        start_date: 2024-09
+        date: 2024
         highlights:
           - "Method seminar: Eye-tracking Methods for Psychological Research"
           - "25 teaching hours"
@@ -86,26 +86,28 @@ cv:
       - company: Laboratory for Experimental Psychopathology (LEP) <br> UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
         position: FRS-FNRS PhD Student
-        start_date: 2018-10
-        end_date: 2023-09
+        start_date: 2018
+        end_date: 2023
 
       - company: Laboratoire de Psychologie et NeuroCognition (LPNC) <br> Université Grenoble Alpes
         location: Grenoble, France
         position: Visiting Researcher
-        start_date: 2022-06
+        date: 2022
 
     Conferences:
-      - company: Belgian Science for Climate Action Conference (BSCA) 
+      - name: Belgian Science for Climate Action Conference (BSCA) 
         location: Brussels, Belgium
-        start_date: March 2026
+        date: March 2026
     
     Awards:
       - title: FNRS Postdoctoral Fellowship
-        date: 2026-2029
+        start_date: 2026
+        end_date: 2029
         awarder: F.R.S - FNRS
       
       - title: FSR Incoming Postdoctoral Fellowship
-        date: 2026-2029
+        start_date: 2026
+        end_date: 2029
         awarder: UCLouvain
 
       - title: Best Paper Award
@@ -125,7 +127,8 @@ cv:
         awarder: REUNIRA
 
       - title: FNRS Doctoral Fellowship
-        date: 2019-2023
+        start_date: 2019
+        end_date: 2023
         awarder: F.R.S. - FNRS
 
     Student Supervision:
