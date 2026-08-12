@@ -10,8 +10,8 @@ cv:
       - institution: UCLouvain 
         location: Louvain-la-Neuve, <br>Belgium
         studyType: PhD in Psychological Sciences
-        start_date: 2018
-        end_date: 2023
+        start_date: "2018-10"
+        end_date: "2023-09"
         highlights:
           - "Thesis: *Testing the nature of the alcohol-related attentional bias in binge drinking and severe alcohol use disorder: an eye-tracking approach.*"
           - "Funded by the Belgian National Fund for Scientific Research (FRS-FNRS)."
