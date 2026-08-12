@@ -49,14 +49,12 @@ cv:
           - "Graduated with *Grande Distinction*"
 
     Experience:
-      - company: UCLouvain
-        location: Louvain-la-Neuve, <br>Belgium
-        position: Postdoctoral Researcher
+      - location: Louvain-la-Neuve, <br>Belgium
+        position: Postdoctoral Researcher at UCLouvain
         start_date: 2025-10
         end_date: 2026-09
         summary: Stress and Anxiety Research Lab
-        highlights:
-          - "Supervisor: Prof. Alexandre Heeren"
+        highlights: "Supervisor: Prof. Alexandre Heeren"
 
       - company: University of Bern
         location: Bern, Switzerland
@@ -103,6 +101,11 @@ cv:
         end_date: 2022-07
         summary: Scientific stay at the Laboratoire de Psychologie et NeuroCognition (LPNC).
 
+    Conferences:
+      - title: Belgian Science for Climate Action Conference (BSCA) 
+        location: Brussels, Belgium
+        start_date: March 2026
+    
     Awards:
       - title: FNRS Postdoctoral Fellowship
         date: 2026-2029
