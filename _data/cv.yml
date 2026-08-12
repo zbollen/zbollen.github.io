@@ -7,10 +7,9 @@ cv:
 
   sections:
     Education:
-      - institution: UCLouvain
+      - institution: UCLouvain 
         location: Louvain-la-Neuve, <br>Belgium
-        area: Psychological Sciences
-        studyType: PhD
+        studyType: PhD in Psychological Sciences
         start_date: 2018
         end_date: 2023
         highlights:
@@ -20,8 +19,7 @@ cv:
 
       - institution: UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
-        area: Psychological Sciences
-        studyType: University Certificate
+        studyType: University Certificate of Psychological Sciences
         start_date: 2017
         end_date: 2018
         highlights:
@@ -29,7 +27,6 @@ cv:
 
       - institution: UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
-        area: Neuropsychology
         studyType: Master of Psychological Sciences
         start_date: 2015
         end_date: 2017
@@ -45,8 +42,7 @@ cv:
 
       - institution: UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
-        area: Psychology and Educational Sciences
-        studyType: Bachelor
+        studyType: Bachelor of Psychology and Educational Sciences
         start_date: 2012
         end_date: 2015
         highlights:
@@ -82,6 +78,16 @@ cv:
           - "20% position"
           - "Supervisor: Prof. Ulf Hahnel"
 
+      - company: University of Bern
+        location: Bern, Switzerland
+        position: Lecturer
+        start_date: 2024-09
+        end_date: 2024-12
+        summary: "Method seminar: Eye-tracking Methods for Psychological Research"
+        highlights:
+          - "25 teaching hours"
+          - "Student evaluation: 5.71/6"
+
       - company: UCLouvain
         location: Louvain-la-Neuve, <br>Belgium
         position: PhD Researcher
@@ -96,16 +102,6 @@ cv:
         start_date: 2022-06
         end_date: 2022-07
         summary: Scientific stay at the Laboratoire de Psychologie et NeuroCognition (LPNC).
-
-      - company: University of Bern
-        location: Bern, Switzerland
-        position: Lecturer
-        start_date: 2024-09
-        end_date: 2024-12
-        summary: "Method seminar: Eye-tracking Methods for Psychological Research"
-        highlights:
-          - "25 teaching hours"
-          - "Student evaluation: 5.71/6"
 
     Awards:
       - title: FNRS Postdoctoral Fellowship
