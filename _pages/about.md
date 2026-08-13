@@ -26,7 +26,7 @@ latest_posts:
 
 My research aims to better understand the <b>cognitive and attentional mechanisms</b> underlying <b>human decision-making</b>. Combining approaches from <b>cognitive neuroscience</b>, <b>environmental psychology</b>, and <b>experimental psychology</b>, my research aims to understand how people process information, allocate attention, and make decisions in contexts that are societally relevant.
 
-My work has evolved from investigating attentional processes in addiction to iunderstanding how people make pro-environmental decisions. More recently, I have expanded this research to examine how characteristics of the physical environment influence attention restoration and well-being. 
+My work has evolved from investigating attentional processes in addiction to understanding how people make pro-environmental decisions. More recently, I have expanded this research to examine how characteristics of the environment influence attention restoration and well-being. 
 
 Through this research, I aim to <b>bridge fundamental cognitive research with real-world societal challenges</b>, contributing to a better understanding of the mechanisms that promote healthier, more cooperative, and more sustainable behavior.
 <br><br>
